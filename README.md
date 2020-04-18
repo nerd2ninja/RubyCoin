@@ -15,7 +15,7 @@ With Rubycoin, you can be your own bank on a decentralized network. Each user wi
 
 * Clone from Github to get the source code:
 
-        $ git clone https://github.com/rubycoinorg/rubycoin
+        $ git clone https://github.com/coolcash/RubyCoin
 
 * Now you can build rubycoind:
 
@@ -29,7 +29,7 @@ With Rubycoin, you can be your own bank on a decentralized network. Each user wi
 
 * Clone from Github to get the source code:
 
-        $ git clone https://github.com/rubycoinorg/rubycoin
+        $ git clone https://github.com/coolcash/RubyCoin
 
 * Download and install Homebrew from https://brew.sh
 
